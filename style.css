@@ -1,0 +1,23 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #f4f8fb;
+  margin: 0;
+  padding: 2em;
+  color: #1a1a1a;
+}
+.container {
+  max-width: 480px;
+  margin: auto;
+  text-align: center;
+}
+input {
+  width: 90%;
+  padding: 0.5em;
+  margin-bottom: 1em;
+}
+canvas {
+  margin-top: 1em;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
